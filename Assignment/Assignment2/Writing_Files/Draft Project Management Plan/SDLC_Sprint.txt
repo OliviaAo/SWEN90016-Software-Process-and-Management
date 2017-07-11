@@ -1,0 +1,63 @@
+
+## For all entries:
+- As an active user, I want to find a button or link for new entries at the home page, so that I can quickly start adding entries.
+- As an active user, I want to choose between different types of farming activities and measurements, so that I can enter the information I want.
+- As an active user, I want to add multiple daily entries at the same time, so that it takes less time adding a lot of entries.
+- As an active user, I want my daily entries to be stored in a database, so that people can access it later.
+- As an administrator, I want timestamps to be stored in a standard format, displayed accordingly for users in different time zones, so that all the users can see the activities posts from themselves and their friends in their local time.
+
+### For all farming activities:
+- As an adminstrator, I want the database to support farming activities, so that such data can be stored persistently.
+- As an active user, I want to add start time, end time in my local area to all activities, so that I can check and compare all their harvest activities with time record.
+- As an administrator, I want to display the duration of each user's farming activity, so that users can see the time period of each harvest activity.
+- As an administrator, I want to calculate the duration of each user's farming activities by utilising the start time and end times that users added into the platform table, so that I can support duration calculation on the platform.
+- As an administrator, I want the platform to display cost estimations automatically if it is not provided by the user, so that the platform can help active users perform cost management more conveniently.
+- As a administrator, I want to calculate the average cost estimation for all farming activities based on the location and market of the users, so that I can support cost estimation function on the platform.
+
+### For measurements:
+- As an adminstrator, I want the database to support measurements, so that such data can be stored persistently.
+- As an active user, I want to add date and unit measure to concrete measurements, so that such an entry contains useful information.
+- As an active user, I want to add date and type of measure to indirect measurements, so that such an entry contains useful information.
+
+
+### Text based entries:
+- As an adminstrator, I want the database to support text based entries, so that such data can be stored persistently.
+- As an active user, I want to add text to a text based entry, so that I can post my thoughts as words.
+- As an active user, I want to add photos and videos to a text based entry, so that the entry reflects my ideas better.
+
+### For havesting tasks:
+- As an adminstrator, I want the database to support the extra fields for havesting activities, so that such data can be stored persistently.
+- As an active user, I want to add crop type, quantity and quality for the harvesting activities, so that I can have a clear record for the harvest crops.
+- As an administrator, I want to show a official harvest grain quality ranking for all users by calculating the harvest grain quality entries in the platform, so that all users can know their grain quality rank.
+- As an active user, I want to add some map data about my farm paddock in a standard GPS file format (tcx or gpx), so that I can clearly tell others about the location of my farm.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       640 words
+
